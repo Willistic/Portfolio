@@ -46,7 +46,7 @@ const Work = () => {
                     {/* Hover Effects */}
                     <div className='opacity-0 group-hover:opacity-100'>
                             <span className='text-2xl font-bold text-white tracking-wider'>
-                                React Rating Component
+                                React Rating App
                             </span>
 
                             <div className='pt-8 text-center'>
